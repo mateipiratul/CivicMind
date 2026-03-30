@@ -55,8 +55,9 @@ Here we manage planned features for future iterations (beyond the current MVP) a
 
 ## 🛠️ Tech Stack (Proposal)
 * **Scraping & Extraction:** Firecrawl API, Python
-* **AI & Agents:** OpenAI/Anthropic API, LangChain / CrewAI
-* **Database:** PostgreSQL (Supabase) + Vector DB (Pinecone)
+* **AI & Agents:** selfhosted Qwen 3.5, LangGraph *(deployment)*
+* **Database:** PostgreSQL *(Supabase)*
+* **Backend:** Java *(Spring Boot framework)*
 * **Frontend:** React Native / Flutter
 
 ---
